@@ -12,6 +12,7 @@ public class MathDriver {
 
 	        MathCalculator mathCalculator = new MathCalculator();
 
+	        
 	        mathCalculator.setName(args[0]);
 
 	        switch(args[1]){
