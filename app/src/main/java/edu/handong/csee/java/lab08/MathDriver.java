@@ -81,7 +81,7 @@ public class MathDriver {
 	                                    mathCalculator.getSquare(Integer.parseInt(args[2])));
 	                break;
 	            default: 
-	                System.out.println("Invalid command");
+	                System.out.println("Invalid command!!!");
 	        }
 	    }  
 }
